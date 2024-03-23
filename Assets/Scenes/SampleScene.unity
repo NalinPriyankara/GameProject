@@ -10305,6 +10305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Nimo (Player)
       objectReference: {fileID: 0}
+    - target: {fileID: 2737540858120306171, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2737540858120306172, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -10348,6 +10352,10 @@ PrefabInstance:
     - target: {fileID: 2737540858120306172, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2737540859963736523, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
+      propertyPath: m_DefaultControlScheme
+      value: Keyboard&Mouse
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
