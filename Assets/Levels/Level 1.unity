@@ -9290,63 +9290,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fb837c082fc66f479a287873182ec22, type: 3}
---- !u!1001 &7623246065478652397
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.13
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 4.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787821, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7623246066424787862, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
-      propertyPath: m_Name
-      value: Buggy (Enemy)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6e33b5d0de0c83d4da149d46adf03362, type: 3}
 --- !u!1001 &9195291280132476169
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9414,6 +9357,10 @@ PrefabInstance:
       propertyPath: m_Follow
       value: 
       objectReference: {fileID: 1675133099}
+    - target: {fileID: 9195291279876851403, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
+      propertyPath: m_Lens.OrthographicSize
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 9195291279876851405, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_BoundingShape2D
       value: 
@@ -9436,11 +9383,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.503368
+      value: -16.50528
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.485239
+      value: 1.4852448
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279918092744, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_BoundingShape2D
@@ -9474,6 +9421,10 @@ PrefabInstance:
       propertyPath: m_Follow
       value: 
       objectReference: {fileID: 1675133099}
+    - target: {fileID: 9195291279982547189, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
+      propertyPath: m_Lens.OrthographicSize
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 9195291280234336197, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_AnimatedTarget
       value: 
