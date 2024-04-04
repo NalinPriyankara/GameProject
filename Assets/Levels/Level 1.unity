@@ -10234,7 +10234,7 @@ PrefabInstance:
       objectReference: {fileID: 1675133099}
     - target: {fileID: 9195291279876851403, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_Lens.OrthographicSize
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279876851405, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_BoundingShape2D
@@ -10250,7 +10250,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786294, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: orthographic size
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_LocalScale.y
@@ -10258,11 +10258,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.577635
+      value: -13.196779
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.67845887
+      value: 1.3244519
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9195291279896786313, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 9195291279918092744, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_BoundingShape2D
@@ -10306,7 +10314,7 @@ PrefabInstance:
       objectReference: {fileID: 1675133099}
     - target: {fileID: 9195291279982547189, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_Lens.OrthographicSize
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 9195291280234336197, guid: f3ef518275277594ab386504dc0ccfe3, type: 3}
       propertyPath: m_AnimatedTarget
